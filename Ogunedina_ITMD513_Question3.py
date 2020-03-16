@@ -1,6 +1,5 @@
 '''
 Question 3 - Midterm
-Author:Yewande Ogunedina
 ITMD 513
 Title: Load dataset and determine descriptive statistics, and create pie chart for student grades. 
 '''
